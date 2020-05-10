@@ -19,11 +19,12 @@ Authors: Brian J. Wiborg
 
 PGN-2 is the "Portable Game Notation Version 2", the successor of the well
 known and widely spread PGN format by *Steven J. Edwards* from 1994-03-12.
-PGN-2 follows the core design ideas of the legacy PGN specification but
-addresses various problems that have lead to a wide spectrum of subtle
-differences within the various implementations.
 
-PGN-2 is a future compatible redesign of PGN.
+PGN-2 is a future compatible redesign of PGN. It follows the core design
+principes of the legacy PGN specification but addresses various problems,
+that have lead to several extended specifications and a rather broad spectrum
+of subtle differences in the various implementations, as well es site-specific
+customizations that grew out of necessity over the years.
 
 
 ## 2: Chess Data Representation
